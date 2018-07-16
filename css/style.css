@@ -84,8 +84,3 @@ a:hover {
     width: 95%;
   }
 }
-
-div {
-    border-width:5px;  
-    border-style:groove;
-}
