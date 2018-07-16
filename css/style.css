@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to bottom, rgba(31, 200, 146,0), rgba(31, 200, 146,1));
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
