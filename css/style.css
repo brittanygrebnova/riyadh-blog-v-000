@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: linear-gradient(to bottom, rgba(31, 200, 146,0), rgba(31, 200, 146,1));
+  background: linear-gradient(to bottom, rgba(31, 180, 200,0), rgba(31, 180, 200,1));
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -87,5 +87,5 @@ a:hover {
 }
 
 #grad {
-  background: linear-gradient(to bottom, rgba(31, 200, 146,0), rgba(31, 200, 146,1));
+  background: linear-gradient(to bottom, rgba(31, 180, 200,0), rgba(31, 180, 200,1));
 }
